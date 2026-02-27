@@ -1,0 +1,5 @@
+main/java/com/tasktracker/TaskTrackerApplication.class
+main/java/com/tasktracker/controller/TaskController.class
+main/java/com/tasktracker/service/TaskService.class
+main/java/com/tasktracker/model/Task.class
+main/java/com/tasktracker/repository/TaskRepository.class
